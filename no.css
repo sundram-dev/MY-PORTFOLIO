@@ -27,7 +27,7 @@ padding-right: 40px;
 color:rgb(231, 61, 61) ;
 text-decoration: underline;
 box-shadow: 6px 4px 19px rgb(231, 61, 61);
-box-shadow: -10px -6px 10px rgb(231, 61, 61);
+text-shadow: -10px -6px 10px rgb(231, 61, 61);
 transition-duration: 0.3s;
 
 
