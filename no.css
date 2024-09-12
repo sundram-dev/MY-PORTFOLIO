@@ -26,7 +26,8 @@ padding-right: 40px;
 .c1:hover{
 color:rgb(231, 61, 61) ;
 text-decoration: underline;
-text-shadow: 1px 5px 4px rgb(165, 42, 42);
+text-shadow: 6px 5px 19px rgb(165, 42, 42);
+text-shadow: -10px -6px 10px rgb(231, 61, 61);
 transition-duration: 0.3s;
 
 
